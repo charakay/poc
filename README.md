@@ -1,1 +1,5 @@
-<svg onload=alert(1)>
+<svg>
+  <script>
+    alert("test")
+  </script>
+</svg>
